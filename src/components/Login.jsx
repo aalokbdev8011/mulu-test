@@ -64,7 +64,7 @@ class Login extends Component {
               <form>
                 <div className="form-row">
                   <div className="form-group col-md-12 p-4">
-                    <label>userId</label>
+                    <label>User Id</label>
                     <input
                       type="text"
                       className="form-control"
